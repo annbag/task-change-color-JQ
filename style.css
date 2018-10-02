@@ -10,15 +10,15 @@ div {
   border: 2px solid black;
   font-size: 60px;
   line-height: 60px;
-  text-align: center;
-  cursor: pointer;
+  text-align: center; 
   background-color: #fff;
+  cursor: pointer;
 }
-.orange {
-  background-color: orange;
+.blue {
+  background-color: #4285f4;
 }
 .green {
-  background-color: green;
+  background-color: #03af5f;
 }
 p {
   position: absolute;
@@ -28,5 +28,5 @@ p {
   font-size: 50px;
   text-transform: uppercase;
   font-family: arial;
-  color: white;
+  color: #fff;
 }
